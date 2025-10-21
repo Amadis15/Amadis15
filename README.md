@@ -12,7 +12,7 @@ I am a **Data Science Student & Business Analyst**
 ## Tools/Skills
 
 **Languages:** Python, SQL  
-**Libraries:** Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn  
+**Libraries:** Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn, XG-Boost, Streamlit  
 **Tools:** Power BI, Tableau, Excel, VS Code, Jupyter Notebook  
 
 ---
