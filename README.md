@@ -1,4 +1,4 @@
-## Hey, I hope all is well!
+## Hello, I hope all is well!
 
 **My name is Luis Amadis Madrigal**  
 
