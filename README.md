@@ -1,6 +1,6 @@
 ## Hello, I hope all is well!
 
-**My name is **Luis Amadis Madrigal**  
+My name is **Luis Amadis Madrigal**  
 
 I am currently a **Data Science Graduate Student & Business Analyst**
 
