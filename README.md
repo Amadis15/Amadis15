@@ -28,7 +28,7 @@ I am currently a **Data Science Graduate Student & Business Analyst**
 
 - [**Customer Churn Prediction**](https://github.com/Amadis15/Telco-Customer-Churn) – Explored customer data to identify retention factors and optimize churn strategies  
 - [**Video Game Sales Analysis**](https://github.com/Amadis15/Video-Game-Sales-Analysis-and-Genre-Prediction) – Visualized global sales trends and built predictive insights by genre  
-- [**NBA Stats Dashboard**](https://github.com/Amadis15/NBA-Stats-Project) – Analyzed player and team performance metrics using a variety of tools  
+- [**NBA Stats Project**](https://github.com/Amadis15/NBA-Stats-Project) – Analyzed player and team performance metrics using a variety of tools  
 
 
 
