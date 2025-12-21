@@ -11,13 +11,13 @@ I am currently a **Data Science Graduate Student & Business Analyst**
 
 ## Tools/Skills
 
-**Languages:** Python, SQL  
-
-**Big Data & Data Engineering:** Spark (PySpark), Hadoop, GCP (BigQuery, Cloud Storage), Snowflake, ETL / ELT workflows  
+**Languages:** Python, SQL
 
 **Machine Learning & NLP:** Regression, Classification, NLP (Text preprocessing, TF-IDF, n-grams, Naive Bayes)  
 
 **Libraries & Frameworks:** Pandas, NumPy, Scikit-Learn, XGBoost, Matplotlib, Seaborn, Streamlit  
+
+**Big Data & Data Engineering:** Spark (PySpark), Hadoop, GCP (BigQuery, Cloud Storage), Snowflake, ETL / ELT workflows  
 
 **Analytics & Development Tools:** Power BI, Tableau, Excel, VS Code, Jupyter Notebook
 
