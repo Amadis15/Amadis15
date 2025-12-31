@@ -11,7 +11,7 @@ I am currently a **Data Science Graduate Student & Business Analyst**
 
 **Languages:** Python, SQL
 
-**Machine Learning & NLP:** Regression, Classification, Gradient Boosting (XGBoost, LightGBM), Logistic Regression, Decision Trees, Random Forests, NLP (Text preprocessing, TF-IDF, n-grams, Naive Bayes)
+**Machine Learning & NLP:** Regression, Classification, Gradient Boosting (XGBoost), Logistic Regression, Decision Trees, Random Forests, NLP (Text preprocessing, TF-IDF, n-grams, Naive Bayes)
 
 **Libraries & Frameworks:** Pandas, NumPy, Scikit-Learn, XGBoost, Matplotlib, Seaborn, Streamlit  
 
