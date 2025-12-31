@@ -5,8 +5,6 @@ My name is **Luis Amadis Madrigal**
 I am currently a **Data Science Graduate Student & Business Analyst**
 
 - Experienced in machine learning, analytics, data visualization, and hands-on exposure to big data and data engineering workflows  
-- Passionate about using data in order to make clear, actionable decisions  
-
 ---
 
 ## Tools/Skills
