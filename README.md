@@ -2,7 +2,7 @@
 
 My name is **Luis Amadis Madrigal**  
 
-I am currently a **Data Science Graduate Student & Business Analyst**
+- I am currently a Business Analyst with hands-on experience building Power BI dashboards and machine learning models for real-world business problems. Currently pursuing an M.S. in Data Science.
 
 - Experienced in machine learning, analytics, data visualization, and hands-on exposure to big data and data engineering workflows  
 ---
