@@ -15,7 +15,7 @@ My name is **Luis Amadis Madrigal**
 
 **Libraries & Frameworks:** Pandas, NumPy, Scikit-Learn, XGBoost, Matplotlib, Seaborn, Streamlit  
 
-**Big Data & Data Engineering:** Spark (PySpark), Hadoop, GCP (BigQuery, Cloud Storage), Snowflake, ETL / ELT workflows  
+**Big Data & Data Engineering:** Spark (PySpark), Hadoop, GCP (BigQuery, Cloud Storage), Snowflake, APIs, ETL / ELT workflows  
 
 **Analytics & Development Tools:** Power BI, Tableau, Excel, VS Code, Jupyter Notebook
 
