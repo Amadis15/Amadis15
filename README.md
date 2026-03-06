@@ -30,7 +30,7 @@ My name is **Luis Amadis Madrigal**
 
 ## Featured Projects
  
-- [**nyc-public-safety-data-pipeline**]([https://github.com/Amadis15/Video-Game-Sales-Analysis-and-Genre-Prediction-Using-Machine-Learning](https://github.com/Amadis15/nyc-public-safety-data-pipeline)) –Developed a Python ETL pipeline that collects NYC incident data from a public API, stores it in BigQuery, and analyzes borough and hourly trends using Power BI.
+- [**nyc-public-safety-data-pipeline**](https://github.com/Amadis15/nyc-public-safety-data-pipeline) –Developed a Python ETL pipeline that collects NYC incident data from a public API, stores it in BigQuery, and analyzes borough and hourly trends using Power BI.
 - [**Customer Churn Prediction**](https://github.com/Amadis15/Telco-Customer-Churn-ML-Project) – Explored customer data to identify retention factors and optimize churn strategies 
 - [**NBA Stats Project**](https://github.com/Amadis15/NBA-Stats-Project) – Analyzed player and team performance metrics using a variety of tools/languages such as Python, SQL, Tableau, Jupyter Notebook and Excel
 
